@@ -40,20 +40,10 @@
 ![Linux](https://img.shields.io/badge/Linux-1e293b?style=flat-square&logo=linux&logoColor=5eead4)
 ![SQL](https://img.shields.io/badge/SQL-1e293b?style=flat-square&logoColor=38bdf8)
 
-## Stats
+## Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=buait&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=0b1020&amp;title_color=5eead4&amp;text_color=cbd5e1&amp;icon_color=38bdf8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=buait&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=f8fafc&amp;title_color=0d9488&amp;text_color=334155&amp;icon_color=0284c7">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=buait&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=f8fafc&amp;title_color=0d9488&amp;text_color=334155&amp;icon_color=0284c7" alt="buait's GitHub stats">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=buait&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0b1020&amp;title_color=5eead4&amp;text_color=cbd5e1">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=buait&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=f8fafc&amp;title_color=0d9488&amp;text_color=334155">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buait&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=f8fafc&amp;title_color=0d9488&amp;text_color=334155" alt="Most-used languages across buait's public repositories">
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=buait&amp;hide_border=true&amp;background=0b1020&amp;stroke=1e293b&amp;ring=5eead4&amp;fire=38bdf8&amp;currStreakNum=f1f5f9&amp;sideNums=e2e8f0&amp;currStreakLabel=5eead4&amp;sideLabels=cbd5e1&amp;dates=64748b">
